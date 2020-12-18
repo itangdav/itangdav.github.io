@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: David's Website
 description: This is my personal website.
-baseurl: "itangdav.github.io"
-url: "itangdav.github.io"
+baseurl: "itangdav.github.io/"
+url: "itangdav.github.io/"
 github_username:  itangdav
