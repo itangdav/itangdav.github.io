@@ -1,3 +1,3 @@
 theme: jekyll-theme-minimal
 title: David's Website
-description: {% include _include/nav.html %}
+description: {% include _includes/nav.html %}
