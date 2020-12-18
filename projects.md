@@ -2,4 +2,9 @@
 
 ### Sudoku Solver
 1. Algorithmic Sudoku Solver in Java
+
 Read more about the project [here](/Sudoku-Solver).
+
+2. Convolutional Neural Network Sudoku Solver in Python 
+
+Read more about the project (TODO).
