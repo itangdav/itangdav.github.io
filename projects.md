@@ -8,6 +8,6 @@ Read more about the project [here](/Sudoku-Solver).
 
 2. **Convolutional Neural Network Sudoku Solver in Python** \
 Using the Tensorflow package in Python, I trained a convolutional neural network to solve Sudoku puzzles on more than a million distinct training cases. It only has a high 80s percent testing accuracy after several weeks of training, which can be improved further with more training data. 
-![Code Image](/images/TensorflowSudoku1.jpg)
+![Code Image](/images/TensorflowSudoku1.jpg) ![Training Image](/images/TensorflowSudoku2.jpg)
 Read more about the project [here](/TensorflowSudoku).
 
