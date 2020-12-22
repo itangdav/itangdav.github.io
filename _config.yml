@@ -7,7 +7,7 @@ github_username:  itangdav
 email: itangdav@gmail.com
 
 minima:
-  skin: solarized-dark
+  skin: solarized
   
 header_pages:
   - about.md
