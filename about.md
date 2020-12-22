@@ -1,4 +1,8 @@
-<h1>About me</h1>
+---
+layout: page
+title: About Me
+permalink: /about
+---
 
 I'm currently a freshman at Carnegie Mellon University's School of Computer Science planning on double majoring in AI and Mathematics. 
 
