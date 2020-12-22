@@ -1,4 +1,8 @@
-# Selected Projects
+---
+layout: page
+title: Selected Projects
+permalink: /projects
+---
 
 ### Sudoku Solver
 1. **Algorithmic Sudoku Solver in Java**\
