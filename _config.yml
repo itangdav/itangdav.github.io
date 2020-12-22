@@ -8,7 +8,7 @@ email: itangdav@gmail.com
 author: David Tang
 
 minima:
-  skin: solarized
+  skin: dark
   
 header_pages:
   - about.md
