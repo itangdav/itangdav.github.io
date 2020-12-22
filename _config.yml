@@ -4,3 +4,5 @@ description: This is my personal website.
 baseurl: ""
 url: "https://itangdav.github.io"
 github_username:  itangdav
+sass:
+  sass_dir: assets/css
