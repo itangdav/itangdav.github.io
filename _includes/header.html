@@ -20,12 +20,10 @@
 
         <div class="trigger">
           {%- for path in page_paths -%}
-            {% unless page.exclude %}
             {%- assign my_page = site.pages | where: "path", path | first -%}
              {% if page.title %}
                {{ page.title }}
              {% endif %}
-          {% endunless %}
           {%- endfor -%}
         </div>
       </nav>
