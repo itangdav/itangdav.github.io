@@ -5,7 +5,7 @@ baseurl: ""
 url: "https://itangdav.github.io"
 github_username:  itangdav
 email: itangdav@gmail.com
-author: David
+author: David Tang
 
 minima:
   skin: solarized
