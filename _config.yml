@@ -7,8 +7,7 @@ github_username:  itangdav
 email: itangdav@gmail.com
 author: David Tang
 
-minima:
-  skin: dark
+skin: dark
   
 header_pages:
   - about.md
