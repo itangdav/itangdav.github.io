@@ -11,4 +11,3 @@ Using the Tensorflow package in Python, I trained a convolutional neural network
 ![Code Image](/images/TensorflowSudoku1.jpg) ![Training Image](/images/TensorflowSudoku2.jpg)
 Read more about the project [here](/TensorflowSudoku).
 
-<a class = "btn-primary"> Hi </a>
