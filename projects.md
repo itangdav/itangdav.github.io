@@ -2,6 +2,7 @@
 layout: page
 title: Selected Projects
 permalink: /projects
+exclude: false
 ---
 
 ### Sudoku Solver
