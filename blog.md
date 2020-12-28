@@ -1,4 +1,4 @@
 ---
-title: "Redirect to Blog"
+title: "My Blog"
 redirect_to: /my-blog
 ---
