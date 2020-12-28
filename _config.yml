@@ -13,6 +13,7 @@ author: David Tang
 header_pages:
   - about.md
   - projects.md
+  - blog.md
 
 plugins:
   - jekyll-redirect-from
