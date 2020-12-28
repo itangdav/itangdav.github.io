@@ -1,6 +1,5 @@
 ---
 layout: home
-exclude: false
 ---
 Hello! Welcome to my nascent website!
 
