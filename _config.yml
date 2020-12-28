@@ -1,4 +1,6 @@
 theme: minima
+minima:
+  skin: dark
 title: David's Website
 description: This is my personal website.
 baseurl: ""
@@ -7,7 +9,6 @@ github_username:  itangdav
 email: itangdav@gmail.com
 author: David Tang
 
-skin: dark
   
 header_pages:
   - about.md
