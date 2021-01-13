@@ -4,10 +4,7 @@ layout: home
 <link rel="stylesheet" href="styles.css"/>
 
 
-<div style="font-family:verdana; text-align: center; margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;"> Hello and Welcome to David Tang's Website.</div>
+<div class="welcome-text"> Hello and Welcome to David Tang's Website.</div>
 
 <div style="text-align: center"><a href="/about" class="button-dark">
   About Me </a> <a href="/projects" class="button-dark">
