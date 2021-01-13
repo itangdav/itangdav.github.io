@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-<link rel="stylesheet" type="text/css" media="all" href="styles.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/styles.css" />
 
 
 <div style="font-family:verdana; text-align: center; margin-top: 100px;
