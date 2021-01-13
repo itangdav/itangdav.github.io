@@ -3,7 +3,12 @@ layout: home
 ---
 
 
-<div style="font-family:verdana; text-align: center">Hello! Welcome to my nascent website!</div>
+<div style="font-family:verdana; text-align: center; margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;">
+  
+  Hello! Welcome to my nascent website!</div>
 
 
 I'm currently a freshman at Carnegie Mellon's School of Computer Science. [Read more about me.](/about)
