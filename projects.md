@@ -9,7 +9,7 @@ exclude: false
 1. **Algorithmic Sudoku Solver in Java**\
 This is a modular sudoku solver where you can easily add more algorithms and it attempts to solve the puzzle by using as many algorithmic steps as possible. Once it gets stuck, it will make an optimized guess before continuing with using algorithms and use backtracking if it encounters an unsolvable board. It also keeps track of the number of guesses which is a good approxiamation of the difficulty of a puzzle.
 
-<div><img style="width:40%;" alt="Sudoku Image" src="/images/sudokuboard1.png"/> <img style="width:40%;" alt="Code Image" src="/images/JavaSudoku1.jpg"/></div>
+<div style="text><img style="width:40%;margin:auto;" alt="Sudoku Image" src="/images/sudokuboard1.png"/> <img style="width:40%;margin:auto;" alt="Code Image" src="/images/JavaSudoku1.jpg"/></div>
 
 Read more about the project [here](/Sudoku-Solver).
 
