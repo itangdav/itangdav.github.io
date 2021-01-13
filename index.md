@@ -10,7 +10,7 @@ layout: home
   margin-left: 80px;"> Hello and Welcome to David Tang's Website.</div>
 
 
-<a href="/about" class="button-dark" style="color:white;">
+<a href="/about" class="button-dark">
   About Me </a>
 
 Check out some of my projects [here](/projects) and my blog [here.](/my-blog)
