@@ -11,8 +11,8 @@ layout: home
   margin-left: 80px;"> Hello and Welcome to David Tang's Website.</div>
 
 
-<a href="/about" class="btn btn-dark">
-  Read more about me </a>
+<a href="/about" class="btn btn-dark" style="color:white">
+  About Me </a>
 
 Check out some of my projects [here](/projects) and my blog [here.](/my-blog)
 
