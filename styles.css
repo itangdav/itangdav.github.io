@@ -2,6 +2,10 @@ a {
   text-decoration: none;
 }
 
+.button-dark:visited {
+  color: #1B1B1B;
+}
+
 .welcome-text {
   font: bold 20px Arial;
   text-align: center;
