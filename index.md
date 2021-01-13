@@ -1,7 +1,9 @@
 ---
 layout: home
 ---
-Hello! Welcome to my nascent website!
+
+
+<div style="border-style: solid">Hello! Welcome to my nascent website!</div>
 
 I'm currently a freshman at Carnegie Mellon's School of Computer Science. [Read more about me.](/about)
 
