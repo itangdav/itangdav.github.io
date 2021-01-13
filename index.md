@@ -11,8 +11,7 @@ layout: home
 
 
 <a href="/about" class="button-dark">
-  About Me </a>
-
-Check out some of my projects [here](/projects) and my blog [here.](/my-blog)
-
-If you want to download some of my math handouts, click [here.](https://github.com/itangdav/my-blog/tree/master/assets)
+  About Me </a> <a href="/projects" class="button-dark">
+  Projects </a> <a href="/my-blog" class="button-dark">
+  Blog </a><a href="https://github.com/itangdav/my-blog/tree/master/assets" class="button-dark">
+  Math Handouts </a>
