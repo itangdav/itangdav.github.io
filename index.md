@@ -2,6 +2,7 @@
 layout: home
 ---
 <link rel="stylesheet" type="text/css" media="all" href="styles.css" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
 
 <div style="font-family:verdana; text-align: center; margin-top: 100px;
@@ -10,15 +11,7 @@ layout: home
   margin-left: 80px;"> Hello and Welcome to David Tang's Website.</div>
 
 
-<a href="/about" style="font: bold 11px Arial;
-  text-decoration: none;
-  background-color: #EEEEEE;
-  color: #333333;
-  padding: 2px 6px 2px 6px;
-  border-top: 1px solid #CCCCCC;
-  border-right: 1px solid #333333;
-  border-bottom: 1px solid #333333;
-  border-left: 1px solid #CCCCCC;">
+<a href="/about" class="btn btn-dark">
   Read more about me </a>
 
 Check out some of my projects [here](/projects) and my blog [here.](/my-blog)
