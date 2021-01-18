@@ -12,7 +12,7 @@ This is a game we created for Hack the North 2020++ using the Ubisoft Hacker's N
 
 Read more about the project <a href="/Havalion-Castle-Rescue">here.</a>
 
-### Sudoku Solver
+### Sudoku Solvers
 <ol>
   <li style="margin-bottom:10px"><p style="font-weight:bold">Algorithmic Sudoku Solver in Java</p>
     
