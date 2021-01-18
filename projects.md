@@ -7,7 +7,9 @@ exclude: false
 
 ### Havalion Castle Rescue
 This is a game we created for Hack the North 2020++ using the Ubisoft Hacker's NEST API. Here is a demo video below:
+
 [![Youtube](https://img.youtube.com/vi/2rzQRaaD_DQ/0.jpg)](https://www.youtube.com/watch?v=2rzQRaaD_DQ)
+
 Read more about the project <a href="/Havalion-Castle-Rescue">here.</a>
 
 ### Sudoku Solver
