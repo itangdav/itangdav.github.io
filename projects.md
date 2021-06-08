@@ -7,7 +7,7 @@ exclude: false
 ### Database of ERGs
 This is a complete enumeration of non-triangle-free edge regular graphs generated for my summer research project at Carnegie Mellon University in 2021. 
 
-Check it out <a href="/databaseofergs/">here.</a>
+Check it out <a href="/DatabaseOfERGs/">here.</a>
 
 ### Havalion Castle Rescue
 This is a game we created for Hack the North 2020++ using the Ubisoft Hacker's NEST API. Here is a demo video below:
