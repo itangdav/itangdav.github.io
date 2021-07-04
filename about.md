@@ -9,6 +9,6 @@ My passions lie at the intersection of computer science and mathematics. Through
 
 My hobbies include solving various sudoku variants and gaming. I play chess online casually, mostly playing blitz, and am currently sitting at 2000+ rating on lichess blitz and rapid. This is one of my favourite attacking games that I have played.
 
-<iframe src="https://lichess.org/embed/24gwcRKu/black?theme=auto&bg=auto" width=750 height=auto frameborder=0></iframe>
+<iframe src="https://lichess.org/embed/24gwcRKu/black?theme=auto&bg=auto" width=750 height=500 frameborder=0></iframe>
 
 As well, I enjoy having fun with friends by playing League of Legends and Valorant, and for single player games, I absolutely love the thrill of conducting my own empire expansion in Total War games. 
