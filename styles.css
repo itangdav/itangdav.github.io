@@ -6,7 +6,7 @@ a {
   color: #FFFFFF;
 }
 
-img.rounded {
+.rounded {
   object-fit: cover;
   border-radius: 50%;
   height: 100px;
