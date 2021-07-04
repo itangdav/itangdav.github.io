@@ -1,5 +1,6 @@
 ---
 layout: home
+permalink: /prod
 ---
 <link rel="stylesheet" href="styles.css"/>
 
