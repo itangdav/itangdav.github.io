@@ -4,7 +4,7 @@ layout: home
 <link rel="stylesheet" href="styles.css"/>
 
 
-<div class="welcome-text"> Hello and Welcome to David Tang's Website.</div>
+<div class="welcome-text"> Hello and Welcome to My Website.</div>
 
 <div style="text-align: center"><a href="/about" class="button-dark">About Me</a>
 <a href="/projects" class="button-dark">Projects</a>
