@@ -9,8 +9,8 @@ a {
 .rounded {
   object-fit: cover;
   border-radius: 50%;
-  height: 240px;
-  width: 240px;
+  height: 500px;
+  width: 500px;
 }
 
 .welcome-text {
