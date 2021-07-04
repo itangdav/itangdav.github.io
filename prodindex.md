@@ -4,7 +4,7 @@ permalink: /prod
 ---
 <link rel="stylesheet" href="styles.css"/>
 
-
+<div style="text-align:center"><img style="height:240px;margin-left:5px; margin-right:5px;" alt="Sudoku Image" src="/images/sudokuboard1.png"/>
 <div class="welcome-text"> Hello and Welcome to My Website.</div>
 
 <div style="text-align: center"><a href="/about" class="button-dark">About Me</a>
