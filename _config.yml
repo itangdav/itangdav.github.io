@@ -1,4 +1,5 @@
 theme: minima
+remote_theme: aterenin/minima-reboot
 title: David's Website
 description: This is my personal website.
 baseurl: ""
@@ -7,7 +8,6 @@ github_username:  itangdav
 email: itangdav@gmail.com
 author: David Tang
 
-  
 header_pages:
   - about.md
   - projects.md
