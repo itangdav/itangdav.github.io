@@ -3,7 +3,7 @@ layout: home
 ---
 <link rel="stylesheet" href="styles.css"/>
 
-
+<div style="text-align:center"><img alt="Main Picture" src="/images/ImageOfMe.jpg" class="rounded"/></div>
 <div class="welcome-text"> Hello and Welcome to My Website.</div>
 
 <div style="text-align: center"><a href="/about" class="button-dark">About Me</a>
