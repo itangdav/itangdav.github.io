@@ -6,10 +6,17 @@ a {
   color: #FFFFFF;
 }
 
+img.rounded {
+  object-fit: cover;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+
 .welcome-text {
   font: bold 20px Arial;
   text-align: center;
-  margin-top: 100px;
+  margin-top: 10px;
   margin-bottom: 100px;
   margin-right: 80px;
   margin-left: 80px;
@@ -31,3 +38,5 @@ a {
   background-color: #FFFFFF;
   color: #1B1B1B;
 }
+
+
