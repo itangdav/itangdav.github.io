@@ -20,7 +20,7 @@ exclude: false
     </div>
     <div class="card text-white bg-dark mb-3" style="width: 700px;">
       <div class="card-body" style="text-align:center;">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/2rzQRaaD_DQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/2rzQRaaD_DQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <h5 class="card-title" style="margin-top: 10px;">Havalion Castle Rescue</h5>
         <p class="card-text">This is a game we created for Hack the North 2020++ using the Ubisoft Hacker's NEST API. The demo video is above. </p>
         <a href="/Havalion-Castle-Rescue" class="btn btn-primary">Read more about it here.</a>
