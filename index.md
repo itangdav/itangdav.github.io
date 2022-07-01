@@ -3,7 +3,7 @@ layout: home
 ---
 <link rel="stylesheet" href="styles.css"/>
 
-<div style="text-align:center"><img alt="Main Picture" src="/images/ImageOfMe.jpg" class="rounded"/></div>
+<div style="text-align:center"><img alt="Main Picture" src="/images/image3.jpeg" class="rounded"/></div>
 <div class="welcome-text"> Hello and Welcome to My Website.</div>
 <div class="welcome-text2"> Here, you can learn more about me, my projects, or check out my blog below!</div>
 
